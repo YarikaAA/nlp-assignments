@@ -1,2 +1,6 @@
 matplotlib
 datasets
+numpy
+nltk
+pandas
+tqdm
